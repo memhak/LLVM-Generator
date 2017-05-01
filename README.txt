@@ -1,4 +1,3 @@
-Student ID:	2014400078
 Student Name:	Mehmet Hakan Kurtoglu
 
 Description:
